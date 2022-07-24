@@ -1,8 +1,8 @@
 {
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
   "twrp_branch": "twrp-8.1",
-  "git_username": "voipsy",
-  "git_email": "37921907+voipsy@users.noreply.github.com",
+  "git_username": "wuyishan0",
+  "git_email": "72303479+2180259245@qq.com",
   "use_own_dt": true,
   "dt_url": "azwhikaru/twrp_device_xiaomi_babel",
   "dt_branch": "main",
