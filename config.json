@@ -2,7 +2,7 @@
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
   "twrp_branch": "twrp-7.1",
   "git_username": "wuyishan0",
-  "git_email": "72303479+wuyishan0@users.noreply.github.com",
+  "git_email": "72303479+wuyishan0@users.noreply.github.com",       
   "use_own_dt": true,
   "dt_url":  "github.com/qiurigao/android_device_vivo_msm8937",
   "dt_branch": "android-7.1",
