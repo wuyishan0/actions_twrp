@@ -10,7 +10,7 @@
   "dt_path": "device/vivo/y55",
   "device_code": "y55",
   "use_omin_head": true,
-  "use_repair_manifest": false,
+  "use_repair_manifest": true,
   "fix_product": true,
   "fix_misscom": true,
   "fix_busybox": true,
