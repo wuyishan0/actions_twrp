@@ -1,8 +1,8 @@
 name: Make TWRP
 
 on:
-  watch:
-    types: [created,deleted]   
+  branch_protection_rule:
+    types: [created, deleted]
     
 jobs:
   build:
