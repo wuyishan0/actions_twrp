@@ -2,7 +2,7 @@ name: Make TWRP
 
 on:
   watch:
-    types: [started]   
+    types: [created,deleted]   
     
 jobs:
   build:
