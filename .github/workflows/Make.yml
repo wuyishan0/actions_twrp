@@ -2,7 +2,7 @@ name: Make Recovery
 
 on:
   watch:
-    types: [started]
+    types: [started]   
     
 jobs:
   build:
