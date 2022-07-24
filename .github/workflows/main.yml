@@ -2,7 +2,7 @@ name: Make TWRP
 
 on:
   branch_protection_rule:
-    types: [created, deleted]
+    types: [created, deleted]       
     
 jobs:
   build:
