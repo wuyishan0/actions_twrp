@@ -5,7 +5,7 @@
   "git_email": "72303479+wuyishan0@users.noreply.github.com",          
   "use_own_dt": true,
   "dt_url":  "github.com/qiurigao/android_device_vivo_msm8937",          
-  "dt_branch": "android-7.1",
+  "dt_branch": "main",
   "dt_remote": "github",
   "dt_path": "device/vivo/y55",
   "device_code": "y55",
